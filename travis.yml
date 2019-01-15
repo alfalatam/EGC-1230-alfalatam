@@ -1,0 +1,7 @@
+
+language:python
+python:
+-"3.6"
+script:
+- cd/Examen/EGC-1230-alfalatam/decide/decide
+-python manage.py test store
